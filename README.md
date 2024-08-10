@@ -4,11 +4,11 @@
 
 <h3 align="center">Go Exercism Solutions</h3>
 
-<p align="center">
+<p>
   This repository contains my solutions for the Go track on <a href="https://exercism.io/tracks/go">Exercism</a>. Each directory corresponds to an individual exercise, with solutions that focus on clean, idiomatic Go code. 
 </p>
 
-<p align="center">
+<p>
   Feel free to explore the code, suggest improvements, or use it as a reference for your own learning journey in Go.
 </p>
 
